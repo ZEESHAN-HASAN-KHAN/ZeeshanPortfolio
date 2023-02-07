@@ -3,10 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
-    "@mui/icons-material": "^5.11.0",
-    "@mui/material": "^5.11.7",
     "@nextui-org/react": "^1.0.0-beta.12",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -20,7 +16,6 @@
     "react-router-dom": "^6.8.0",
     "react-scripts": "5.0.1",
     "react-social-icons": "^5.15.0",
-    "react-tilt": "^0.1.4",
     "react-typewriter-effect": "^1.1.0",
     "react-vertical-timeline-component": "^3.6.0",
     "tilt": "^0.2.0",
