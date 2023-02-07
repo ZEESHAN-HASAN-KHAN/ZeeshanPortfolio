@@ -1,0 +1,7 @@
+node_modules
+build/*
+*.DS_STORE
+env-config.js
+public/env-config.js
+.vscode
+src/utilities/dist
